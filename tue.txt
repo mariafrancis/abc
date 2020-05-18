@@ -1,6 +1,2 @@
 tuesday will be a holiday
-<<<<<<< HEAD
-hey ..
-=======
-too
->>>>>>> abc
+
